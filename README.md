@@ -9,7 +9,7 @@ Requirements:
         library(dplyr)
         library(stringr)
         library(ggplot2)
-  (3) Computer: Windows or Mac
+  (3) Computer: Windows or Mac 
   
 Data sets (included in repository):
   (1) Beers.csv 
