@@ -4,11 +4,13 @@ This repository contains a R-markdown file (rmd) that requires two datasets (csv
 
 Requirements:
   (1) RStudio
+  
   (2) Libraries: 
-        library(tidyverse)
-        library(dplyr)
-        library(stringr)
-        library(ggplot2)
+        - library(tidyverse)
+        - library(dplyr)
+        - library(stringr)
+        - library(ggplot2)
+        
   (3) Computer: Windows or Mac 
   
 Data sets (included in repository):
