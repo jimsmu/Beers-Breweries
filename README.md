@@ -14,6 +14,7 @@ Requirements:
   (3) Computer: Windows or Mac 
   
 Data sets (included in repository):
+
   (1) Beers.csv 
       Columns:
         - Name
